@@ -1,0 +1,409 @@
+,Rank,Movie,DomesticBoxOffice,OpeningTheaterCount,OpeningWeekendBox Office,MaxTheaterCount,url_part,Production Budget,Domestic Releases,MPAA Rating,Running Time,Franchise,Source,Genre,Production Method,Creative Type,Production Companies,Production Countries
+0,1,Rogue One: A Star Wars Story,"$532,177,324",4157,"$155,081,681",4157,Rogue-One-A-Star-Wars-Story,200000000,December 16th 2016,PG-13,134,Star Wars,Spin-Off,Adventure,Animation/Live Action,Science Fiction,Lucasfilm,United States
+0,2,Finding Dory,"$486,295,561",4305,"$135,060,273",4305,Finding-Dory,200000000,June 17th 2016,PG,103,Finding Nemo,Original Screenplay,Adventure,Digital Animation,Kids Fiction,Disney-Pixar,United States
+0,3,Captain America: Civil War,"$408,084,349",4226,"$179,139,142",4226,Captain-America-Civil-War,250000000,May 6th 2016,PG-13,146,Captain AmericaMarvel Cinematic Universe,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Marvel,United States
+0,4,The Secret Life of Pets,"$368,384,330",4370,"$104,352,905",4381,Secret-Life-of-Pets-The,75000000,July 8th 2016,PG,91,,Original Screenplay,Adventure,Digital Animation,Kids Fiction,Illumination,United States
+0,5,The Jungle Book,"$364,001,123",4028,"$103,261,464",4144,Jungle-Book-The,175000000,April 15th 2016,PG,105,,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,Fantasy,Walt,United States
+0,6,Deadpool,"$363,070,709",3558,"$132,434,639",3856,Deadpool,58000000,February 12th 2016,R,107,X-MenDeadpool,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Marvel,United States
+0,7,Zootopia,"$341,268,248",3827,"$75,063,401",3959,Zootopia,150000000,March 4th 2016,PG,108,,Original Screenplay,Adventure,Digital Animation,Kids Fiction,Walt,United States
+0,8,Batman v Superman: Dawn of Justice,"$330,360,194",4242,"$166,007,347",4256,Batman-v-Superman-Dawn-of-Justice,250000000,March 25th 2016,PG-13,151,Man of SteelSupermanBatmanDC Extended Universe,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Warner,United States
+0,9,Suicide Squad,"$325,100,054",4255,"$133,682,248",4255,Suicide-Squad,175000000,August 5th 2016,PG-13,123,DC Extended Universe,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Warner,United States
+0,10,Sing,"$270,329,045",4022,"$35,258,145",4029,Sing,75000000,December 21st 2016,PG,108,,Original Screenplay,Adventure,Digital Animation,Kids Fiction,Illumination,United States
+0,11,Moana,"$248,757,044",3875,"$56,631,401",3875,Moana,150000000,November 23rd 2016,PG,113,,Original Screenplay,Musical,Digital Animation,Kids Fiction,Walt,United States
+0,12,Fantastic Beasts and Where to Find Them,"$234,037,575",4144,"$74,403,387",4144,Fantastic-Beasts-and-Where-to-Find-Them,180000000,November 18th 2016,PG-13,133,Harry PotterFantastic Beasts and Where to Find Them,Spin-Off,Adventure,Live Action,Fantasy,Warner,United States
+0,13,Doctor Strange,"$232,641,920",3882,"$85,058,311",3882,Doctor-Strange,165000000,November 4th 2016,PG-13,115,Marvel Cinematic Universe,Based on Comic/Graphic Novel,Adventure,Live Action,Super Hero,Marvel,United States
+0,14,Hidden Figures,"$169,607,287",25,"$515,499",3416,Hidden-Figures,25000000,December 25th 2016,PG,126,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Fox,United States
+0,15,Jason Bourne,"$162,192,920",4026,"$59,215,365",4039,Jason-Bourne,120000000,July 29th 2016,PG-13,123,Bourne,Based on Fiction Book/Short Story,Action,Live Action,Contemporary Fiction,Universal,United States
+0,16,Star Trek Beyond,"$158,848,340",3928,"$59,253,211",3928,Star-Trek-Beyond,185000000,July 22nd 2016,PG-13,122,Star Trek,Based on TV,Adventure,Live Action,Science Fiction,Sneaky,United States
+0,17,X-Men: Apocalypse,"$155,442,489",4150,"$65,769,562",4153,X-Men-Apocalypse,178000000,May 27th 2016,PG-13,136,X-Men,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Twentieth,United States
+0,18,Trolls,"$153,707,064",4060,"$46,581,142",4066,Trolls,125000000,November 4th 2016,PG,93,,Based on Toy,Adventure,Digital Animation,Kids Fiction,DreamWorks,United States
+0,19,La La Land,"$151,101,803",5,"$881,104",3236,La-La-Land,20000000,December 9th 2016,PG-13,128,,Original Screenplay,Musical,Live Action,Contemporary Fiction,Gilbert,United States
+0,20,Kung Fu Panda 3,"$143,528,619",3955,"$41,282,042",3987,Kung-Fu-Panda-3,140000000,January 29th 2016,PG,94,Kung Fu Panda,Original Screenplay,Adventure,Digital Animation,Kids Fiction,DreamWorks,United States
+0,21,Ghostbusters,"$128,350,574",3963,"$46,018,755",3963,Ghostbusters,144000000,July 15th 2016,PG-13,117,Ghostbusters,Remake,Comedy,Live Action,Science Fiction,Columbia,United States
+0,22,Central Intelligence,"$127,440,871",3508,"$35,535,250",3508,Central-Intelligence,50000000,June 17th 2016,PG-13,114,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,New,United States
+0,23,The Legend of Tarzan,"$126,643,061",3561,"$38,527,856",3591,Legend-of-Tarzan-The,180000000,July 1st 2016,PG-13,110,,Based on Fiction Book/Short Story,Adventure,Live Action,Historical Fiction,Warner,United States
+0,24,Sully,"$125,070,033",3525,"$35,028,301",3955,Sully,60000000,September 9th 2016,PG-13,96,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Village,United States
+0,25,Bad Moms,"$113,257,297",3215,"$23,817,340",3215,Bad-Moms,20000000,July 29th 2016,R,101,Bad Moms,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Bill,United States
+0,26,The Angry Birds Movie,"$107,509,366",3932,"$38,155,177",3932,Angry-Birds-Movie-The,73000000,May 20th 2016,PG,97,,Based on Game,Adventure,Digital Animation,Kids Fiction,Columbia,FinlandUnited States
+0,27,Independence Day: Resurgence,"$103,144,286",4068,"$41,039,944",4091,Independence-Day-Resurgence,165000000,June 24th 2016,PG-13,119,Independence Day,Original Screenplay,Action,Live Action,Science Fiction,20th,United States
+0,28,The Conjuring 2: The Enfield Poltergeist,"$102,470,008",3343,"$40,406,314",3356,Conjuring-2-The-Enfield-Poltergeist-The,40000000,June 10th 2016,R,133,The Conjuring,Original Screenplay,Horror,Live Action,Fantasy,New,United States
+0,29,Arrival,"$100,546,139",2317,"$24,074,047",3115,Arrival,47000000,November 11th 2016,PG-13,116,,Based on Fiction Book/Short Story,Drama,Live Action,Science Fiction,Paramount,United States
+0,30,Passengers,"$100,014,699",3478,"$14,869,736",3478,Passengers,110000000,December 21st 2016,PG-13,116,,Original Screenplay,Thriller/Suspense,Live Action,Science Fiction,Columbia,United States
+0,31,Sausage Party,"$97,670,358",3103,"$34,263,534",3135,Sausage-Party,19000000,August 12th 2016,R,85,,Original Screenplay,Adventure,Digital Animation,Fantasy,Annapurna,United States
+0,32,The Magnificent Seven,"$93,432,655",3674,"$34,703,397",3696,Magnificent-Seven-The,90000000,September 23rd 2016,PG-13,128,,Remake,Western,Live Action,Historical Fiction,Metro-Goldwyn-Mayer,United States
+0,33,Ride Along 2,"$90,862,685",3175,"$35,243,095",3192,Ride-Along-2,40000000,January 15th 2016,PG-13,102,Ride Along,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Universal,United States
+0,34,Donâ??t Breathe,"$89,217,875",3051,"$26,411,706",3384,Dont-Breathe,10000000,August 26th 2016,R,88,,Original Screenplay,Horror,Live Action,Contemporary Fiction,Screen,United States
+0,35,Miss Peregrineâ??s Home for Peculiar Children,"$87,242,834",3522,"$28,871,140",3835,Miss-Peregrines-Home-for-Peculiar-Children,110000000,September 30th 2016,PG-13,126,,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,Fantasy,Twentieth,United States
+0,36,The Accountant,"$86,260,045",3332,"$24,710,273",3402,Accountant-The,40000000,October 14th 2016,R,128,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Warner,United States
+0,37,Teenage Mutant Ninja Turtles: Out of the Shadows,"$82,051,601",4071,"$35,316,382",4071,Teenage-Mutant-Ninja-Turtles-Out-of-the-Shadows,135000000,June 3rd 2016,PG-13,112,Teenage Mutant Ninja Turtles,Based on Comic/Graphic Novel,Adventure,Animation/Live Action,Super Hero,Paramount,United States
+0,39,Alice Through the Looking Glass,"$77,042,381",3763,"$26,858,726",3763,Alice-Through-the-Looking-Glass,170000000,May 27th 2016,PG,113,Alice in Wonderland,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,Fantasy,Walt,United States
+0,40,Peteâ??s Dragon,"$76,233,151",3702,"$21,514,095",3702,Petes-Dragon,65000000,August 12th 2016,PG,103,,Remake,Adventure,Animation/Live Action,Kids Fiction,Walt,United States
+0,41,The Girl on the Train,"$75,395,035",3144,"$24,536,265",3241,Girl-on-the-Train-The,45000000,October 7th 2016,R,112,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Contemporary Fiction,Marc,United States
+0,42,Tyler Perryâ??s Boo! A Madea Halloween,"$73,206,343",2260,"$28,501,448",2299,Tyler-Perrys-Boo-A-Madea-Halloween,20000000,October 21st 2016,PG-13,103,Madea,Based on Play,Comedy,Live Action,Contemporary Fiction,Lionsgate,United States
+0,43,Storks,"$72,679,278",3922,"$21,311,407",3922,Storks,70000000,September 23rd 2016,PG,100,,Original Screenplay,Adventure,Digital Animation,Kids Fiction,RatPac,United States
+0,44,10 Cloverfield Lane,"$72,082,999",3391,"$24,727,437",3427,10-Cloverfield-Lane,5000000,March 11th 2016,PG-13,103,Cloverfield,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Bad,United States
+0,45,Lights Out,"$67,268,835",2818,"$21,688,103",2835,Lights-Out,5000000,July 22nd 2016,PG-13,80,,Based on Short Film,Horror,Live Action,Fantasy,New,United States
+0,46,Hacksaw Ridge,"$67,209,615",2886,"$15,190,758",2971,Hacksaw-Ridge,40000000,November 4th 2016,R,138,,Based on Real Life Events,Drama,Live Action,Dramatization,Cross,United States
+0,47,The Divergent Series: Allegiant,"$66,184,051",3740,"$29,027,348",3740,Divergent-Series-Allegiant-The,110000000,March 18th 2016,PG-13,120,The Divergent Series,Based on Fiction Book/Short Story,Action,Live Action,Science Fiction,Summit,United States
+0,48,Now You See Me 2,"$65,075,540",3232,"$22,383,146",3232,Now-You-See-Me-2,90000000,June 10th 2016,PG-13,129,Now You See Me,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Summit,United States
+0,49,Ice Age: Collision Course,"$64,063,008",3992,"$21,373,064",3997,Ice-Age-Collision-Course,105000000,July 22nd 2016,PG,100,Ice Age,Original Screenplay,Adventure,Digital Animation,Kids Fiction,20th,United States
+0,50,The Boss,"$63,077,560",3480,"$23,586,645",3495,Boss-The,29000000,April 8th 2016,R,99,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Gary,United States
+0,51,London Has Fallen,"$62,524,260",3490,"$21,635,601",3492,London-Has-Fallen,60000000,March 4th 2016,R,99,Olympus Has Fallen,Original Screenplay,Action,Live Action,Contemporary Fiction,Nu,United States
+0,52,Miracles from Heaven,"$61,705,123",3047,"$14,812,393",3155,Miracles-from-Heaven,13000000,March 16th 2016,PG,109,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Columbia,United States
+0,53,Deepwater Horizon,"$61,433,527",3259,"$20,223,544",3403,Deepwater-Horizon,156000000,September 30th 2016,PG-13,107,,Based on Real Life Events,Drama,Live Action,Dramatization,Participant,United States
+0,54,Why Him?,"$60,323,786",2970,"$11,002,986",3008,Why-Him?,38000000,December 23rd 2016,R,111,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,21,United States
+0,55,My Big Fat Greek Wedding 2,"$59,689,605",3133,"$17,861,950",3179,My-Big-Fat-Greek-Wedding-2,18000000,March 25th 2016,PG-13,94,My Big Fat Greek Wedding,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Universal,United States
+0,56,Jack Reacher: Never Go Back,"$58,697,076",3780,"$22,872,490",3780,Jack-Reacher-Never-Go-Back,60000000,October 21st 2016,PG-13,118,Jack Reacher,Based on Fiction Book/Short Story,Action,Live Action,Contemporary Fiction,Paramount,United States
+0,57,Fences,"$57,682,904",4,"$129,462",2368,Fences,,December 16th 2016,PG-13,133,,Based on Play,Drama,Live Action,Historical Fiction,Paramount,United States
+0,58,Me Before You,"$56,245,075",2704,"$18,723,269",2762,Me-Before-You,20000000,June 3rd 2016,PG-13,110,,Based on Fiction Book/Short Story,Drama,Live Action,Contemporary Fiction,New,United States
+0,59,The BFG,"$55,483,770",3357,"$18,775,350",3392,BFG-The,140000000,July 1st 2016,PG,115,,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,Kids Fiction,Walden,United States
+0,60,Neighbors 2: Sorority Rising,"$55,340,730",3384,"$21,760,405",3416,Neighbors-2-Sorority-Rising,35000000,May 20th 2016,R,92,Neighbors,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Point,United States
+0,61,The Shallows,"$55,121,623",2962,"$16,800,868",2962,Shallows-The,13000000,June 24th 2016,PG-13,87,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Columbia,United States
+0,62,Office Christmas Party,"$54,767,494",3210,"$16,890,204",3210,Office-Christmas-Party,45000000,December 9th 2016,R,105,,Based on Fiction Book/Short Story,Comedy,Live Action,Contemporary Fiction,DreamWorks,United States
+0,63,Assassinâ??s Creed,"$54,647,948",2970,"$10,278,225",2996,Assassins-Creed,125000000,December 21st 2016,PG-13,116,,Based on Game,Action,Live Action,Science Fiction,Regency,United States
+0,64,Barbershop: The Next Cut,"$54,030,051",2661,"$20,242,415",2676,Barbershop-The-Next-Cut,20000000,April 15th 2016,PG-13,112,Barbershop,Original Screenplay,Comedy,Live Action,Contemporary Fiction,New,United States
+0,65,13 Hours: The Secret Soldiers of Benghazi,"$52,853,219",2389,"$16,194,738",2917,13-Hours-The-Secret-Soldiers-of-Benghazi,50000000,January 15th 2016,R,144,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Paramount,United States
+0,66,Lion,"$51,739,495",4,"$123,360",1802,Lion,12000000,November 25th 2016,PG-13,120,,Based on Factual Book/Article,Drama,Live Action,Dramatization,See-Saw,Australia
+0,67,Kubo and the Two Strings,"$48,023,088",3260,"$12,608,372",3279,Kubo-and-the-Two-Strings,55000000,August 19th 2016,PG,102,,Original Screenplay,Adventure,Stop-Motion Animation,Fantasy,Focus,United States
+0,68,The Huntsman: Winterâ??s War,"$48,003,015",3791,"$19,445,035",3802,Huntsman-Winters-War-The,115000000,April 22nd 2016,PG-13,113,Snow White and the Huntsman,Based on Folk Tale/Legend/Fairytale,Action,Live Action,Fantasy,Universal,United States
+0,69,Manchester by the Sea,"$47,695,371",4,"$256,498",1213,Manchester-by-the-Sea,8500000,November 18th 2016,R,137,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Amazon,United States
+0,70,Warcraft,"$47,225,655",3400,"$24,166,110",3406,Warcraft,160000000,June 10th 2016,PG-13,123,,Based on Game,Action,Live Action,Fantasy,Universal,United States
+0,71,How to be Single,"$46,843,513",3343,"$17,878,911",3357,How-to-be-Single,37000000,February 12th 2016,R,110,,Based on Fiction Book/Short Story,Romantic Comedy,Live Action,Contemporary Fiction,New,United States
+0,72,Mike and Dave Need Wedding Dates,"$46,009,673",2982,"$16,628,170",3008,Mike-and-Dave-Need-Wedding-Dates,33000000,July 8th 2016,R,98,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,20th,United States
+0,73,War Dogs,"$43,034,523",3258,"$14,685,305",3258,War-Dogs,50000000,August 19th 2016,R,114,,Based on Factual Book/Article,Comedy,Live Action,Dramatization,Warner,United States
+0,74,Almost Christmas,"$42,065,185",2376,"$15,134,235",2379,Almost-Christmas,17000000,November 11th 2016,PG-13,107,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Universal,United States
+0,75,Money Monster,"$41,012,075",3104,"$14,788,157",3104,Money-Monster,27000000,May 13th 2016,R,98,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Tri-Star,United States
+0,76,Allied,"$40,098,064",3160,"$12,701,743",3160,Allied,,November 23rd 2016,R,124,,Original Screenplay,Drama,Live Action,Historical Fiction,Paramount,United States
+0,77,Nerve,"$38,583,626",2538,"$9,445,456",2538,Nerve,20000000,July 27th 2016,PG-13,96,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Contemporary Fiction,Lionsgate,United States
+0,78,Risen,"$36,880,033",2915,"$11,801,271",2915,Risen,20000000,February 19th 2016,PG-13,107,,Based on Religious Text,Drama,Live Action,Historical Fiction,Columbia,United States
+0,79,The Nice Guys,"$36,261,763",2865,"$11,203,270",2865,Nice-Guys-The,50000000,May 20th 2016,R,116,,Original Screenplay,Black Comedy,Live Action,Historical Fiction,Warner,United States
+0,80,The Boy,"$35,819,556",2671,"$10,778,392",2671,Boy-The,10000000,January 22nd 2016,PG-13,97,,Original Screenplay,Horror,Live Action,Fantasy,Lakeshore,United States
+0,81,Dirty Grandpa,"$35,593,113",2912,"$11,111,875",2912,Dirty-Grandpa,11500000,January 22nd 2016,R,97,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,QED,United States
+0,82,Ouija: Origin of Evil,"$35,144,505",3167,"$14,065,500",3168,Ouija-Origin-of-Evil,9000000,October 21st 2016,PG-13,99,Ouija,Based on Game,Horror,Live Action,Fantasy,Blumhouse,United States
+0,83,The 5th Wave,"$34,912,982",2908,"$10,326,356",2908,5th-Wave-The,38000000,January 22nd 2016,PG-13,112,,Based on Fiction Book/Short Story,Action,Live Action,Science Fiction,Columbia,United States
+0,84,Inferno,"$34,343,574",3576,"$14,860,425",3576,Inferno,75000000,October 28th 2016,PG-13,121,Da Vinci Code,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Contemporary Fiction,Image,United States
+0,85,Motherâ??s Day,"$32,492,859",3035,"$8,369,184",3291,Mothers-Day,,April 29th 2016,PG-13,118,Garry Marshall's Holiday Franchise,Original Screenplay,Romantic Comedy,Live Action,Contemporary Fiction,Open,United States
+0,86,Patriots Day,"$31,886,361",7,"$161,306",3120,Patriots-Day,40000000,December 21st 2016,R,130,,Based on Real Life Events,Thriller/Suspense,Live Action,Dramatization,CBS,United States
+0,87,Gods of Egypt,"$31,153,464",3117,"$14,123,903",3117,Gods-of-Egypt,140000000,February 26th 2016,PG-13,127,,Original Screenplay,Adventure,Live Action,Fantasy,Summit,United States
+0,88,Collateral Beauty,"$31,016,021",3528,"$7,102,085",3528,Collateral-Beauty,36000000,December 16th 2016,PG-13,96,,Original Screenplay,Drama,Live Action,Contemporary Fiction,PalmStar,United States
+0,89,"Hail, Caesar!","$30,080,225",2232,"$11,355,225",2248,Hail-Caesar,22000000,February 5th 2016,PG-13,100,,Original Screenplay,Comedy,Live Action,Historical Fiction,Mike,United States
+0,90,When the Bough Breaks,"$29,747,603",2246,"$14,202,323",2246,When-the-Bough-Breaks,10000000,September 9th 2016,PG-13,107,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Screen,United States
+0,91,Zoolander 2,"$28,848,693",3394,"$13,841,146",3418,Zoolander-2,50000000,February 12th 2016,PG-13,102,Zoolander,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Paramount,United States
+0,92,Moonlight,"$27,854,931",4,"$402,075",1564,Moonlight,1500000,October 21st 2016,R,111,,Based on Play,Drama,Live Action,Historical Fiction,A24,United States
+0,93,The Finest Hours,"$27,569,558",3143,"$10,288,932",3143,Finest-Hours-The,70000000,January 29th 2016,PG,116,,Based on Real Life Events,Thriller/Suspense,Live Action,Dramatization,Walt,United States
+0,94,Florence Foster Jenkins,"$27,383,770",1528,"$6,601,313",1528,Florence-Foster-Jenkins,29000000,August 12th 2016,PG-13,110,,Based on Real Life Events,Drama,Live Action,Dramatization,Pathe,United States
+0,95,Hell or High Water,"$27,007,844",32,"$621,329",1505,Hell-or-High-Water,12000000,August 12th 2016,R,102,,Original Screenplay,Western,Live Action,Contemporary Fiction,Sidney,United States
+0,96,The Forest,"$26,594,261",2451,"$12,741,176",2509,Forest-The,10000000,January 8th 2016,PG-13,93,,Original Screenplay,Thriller/Suspense,Live Action,Fantasy,Lava,United States
+0,97,Ben-Hur,"$26,410,477",3084,"$11,203,815",3084,Ben-Hur,95000000,August 19th 2016,PG-13,123,,Based on Fiction Book/Short Story,Drama,Live Action,Historical Fiction,Paramount,United States
+0,98,The Witch,"$25,138,705",2046,"$8,800,230",2204,Witch-The,3500000,February 19th 2016,R,90,,Original Screenplay,Horror,Live Action,Fantasy,A24,BrazilCanadaUnited KingdomUnited States
+0,99,Bridget Jonesâ??s Baby,"$24,139,805",2927,"$8,571,785",2930,Bridget-Joness-Baby,35000000,September 16th 2016,R,122,Bridget Jones,Based on Fiction Book/Short Story,Romantic Comedy,Live Action,Contemporary Fiction,Perfect,United KingdomUnited States
+0,100,Kevin Hart: What Now?,"$23,591,043",2567,"$11,767,210",2567,Kevin-Hart-What-Now?,10000000,October 14th 2016,R,96,,Based on Real Life Events,Concert/Performance,Live Action,Factual,Universal,United States
+0,101,Whiskey Tango Foxtrot,"$23,083,334",2374,"$7,450,275",2413,Whiskey-Tango-Foxtrot,35000000,March 4th 2016,R,111,,Based on Factual Book/Article,Comedy,Live Action,Dramatization,Paramount,United States
+0,102,Snowden,"$21,587,519",2443,"$8,000,058",2443,Snowden,50000000,September 16th 2016,R,134,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Open,United States
+0,103,Mechanic: Resurrection,"$21,218,403",2258,"$7,456,525",2258,Mechanic-Resurrection,,August 26th 2016,R,98,The Mechanic,Original Screenplay,Action,Live Action,Contemporary Fiction,Summit,United States
+0,104,Free State of Jones,"$20,810,036",2815,"$7,572,206",2815,Free-State-of-Jones,50000000,June 24th 2016,R,139,,Based on Real Life Events,Drama,Live Action,Historical Fiction,STX,United States
+0,105,Blair Witch,"$20,777,061",3121,"$9,576,057",3121,Blair-Witch,10000000,September 16th 2016,R,89,Blair Witch Project,Original Screenplay,Horror,Live Action,Contemporary Fiction,Lionsgate,United States
+0,106,Godâ??s Not Dead 2,"$20,773,069",2419,"$7,623,662",2419,Gods-Not-Dead-2,5000000,April 1st 2016,PG,121,God's Not Dead,Original Screenplay,Drama,Live Action,Contemporary Fiction,Pure,United States
+0,107,Keanu,"$20,591,853",2658,"$9,453,224",2681,Keanu,15000000,April 29th 2016,R,98,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,New,United States
+0,108,Middle School: The Worst Years of My Life,"$20,007,149",2822,"$6,878,437",2822,Middle-School-The-Worst-Years-of-My-Life,8500000,October 7th 2016,PG,92,,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,Kids Fiction,CBS,United States
+0,109,Nine Lives,"$19,700,032",2264,"$6,249,915",2264,Nine-Lives,,August 5th 2016,PG,87,,Original Screenplay,Adventure,Live Action,Fantasy,EuropaCorp,France
+0,110,Race,"$19,115,191",2369,"$7,353,922",2387,Race,5000000,February 19th 2016,PG-13,134,,Based on Real Life Events,Drama,Live Action,Dramatization,Focus,CanadaFranceGermany
+0,111,The Choice,"$18,730,891",2631,"$6,050,443",2631,Choice-The,,February 5th 2016,PG-13,110,,Based on Fiction Book/Short Story,Drama,Live Action,Contemporary Fiction,Lionsgate,United States
+0,112,Eye in the Sky,"$18,704,596",5,"$113,803",1089,Eye-in-the-Sky,13000000,March 11th 2016,R,102,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Entertainment,United Kingdom
+0,113,Bad Santa 2,"$17,782,176",2920,"$6,176,680",2945,Bad-Santa-2,,November 23rd 2016,R,92,Bad Santa,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Ingenious,United States
+0,114,Masterminds,"$17,356,894",3042,"$6,541,205",3042,Masterminds,,September 30th 2016,PG-13,95,,Based on Real Life Events,Comedy,Live Action,Historical Fiction,Relativity,United States
+0,115,Norm of the North,"$17,062,499",2411,"$6,844,137",2411,Norm-of-the-North,18000000,January 15th 2016,PG,93,,Original Screenplay,Adventure,Digital Animation,Kids Fiction,Splash,IndiaUnited States
+0,116,The Birth of a Nation,"$15,861,566",2105,"$7,004,254",2105,Birth-of-a-Nation-The,10000000,October 7th 2016,R,118,,Based on Real Life Events,Drama,Live Action,Dramatization,Bron,United States
+0,117,Eddie the Eagle,"$15,789,389",2042,"$6,084,682",2044,Eddie-the-Eagle,23000000,February 26th 2016,PG-13,105,,Based on Real Life Events,Drama,Live Action,Dramatization,MARV,United KingdomUnited States
+0,118,The Infiltrator,"$15,436,808",1601,"$5,303,775",1601,Infiltrator-The,47500000,July 13th 2016,R,127,,Based on Factual Book/Article,Thriller/Suspense,Live Action,Dramatization,Bank,United States
+0,119,Keeping Up with the Joneses,"$14,904,426",3022,"$5,461,475",3022,Keeping-Up-with-the-Joneses,,October 21st 2016,PG-13,101,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Fox,United States
+0,120,Criminal,"$14,708,696",2683,"$5,767,278",2683,Criminal,31500000,April 15th 2016,R,113,,Original Screenplay,Action,Live Action,Science Fiction,Summit,United KingdomUnited States
+0,121,"Hello, My Name is Doris","$14,444,999",4,"$84,986",979,Hello-My-Name-is-Doris,,March 11th 2016,R,90,,Based on Short Film,Drama,Live Action,Contemporary Fiction,Roadside,United States
+0,122,The Edge of Seventeen,"$14,431,633",1945,"$4,754,215",1945,Edge-of-Seventeen-The,9000000,November 18th 2016,R,99,,Original Screenplay,Drama,Live Action,Contemporary Fiction,STX,United States
+0,123,Love & Friendship,"$14,016,568",4,"$133,513",826,Love-and-Friendship,,May 13th 2016,PG,93,,Based on Fiction Book/Short Story,Drama,Live Action,Historical Fiction,Westerly,FranceIrelandNetherlands
+0,124,Jackie,"$13,960,394",5,"$278,715",508,Jackie,9000000,December 2nd 2016,R,99,,Based on Real Life Events,Drama,Live Action,Dramatization,Wild,ChileFranceUnited States
+0,126,Triple 9,"$12,639,297",2205,"$6,109,085",2205,Triple-9,20000000,February 26th 2016,R,115,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Anonymous,United States
+0,127,The Light Between Oceans,"$12,545,979",1500,"$4,765,838",1500,Light-Between-Oceans-The,20000000,September 2nd 2016,PG-13,132,,Based on Fiction Book/Short Story,Drama,Live Action,Historical Fiction,Heyday,AustraliaIndiaNew ZealandUnited KingdomUnited States
+0,129,Fifty Shades of Black,"$11,686,940",2075,"$5,900,528",2075,Fifty-Shades-of-Black,5000000,January 29th 2016,R,93,,Based on Movie,Comedy,Live Action,Contemporary Fiction,IM,United States
+0,130,No Manches Frida,"$11,528,613",362,"$3,676,235",465,No-Manches-Frida,,September 2nd 2016,PG-13,100,,Remake,Comedy,Live Action,Contemporary Fiction,Pantelion,United States
+0,132,Pride and Prejudice and Zombies,"$10,907,291",2931,"$5,324,240",2931,Pride-and-Prejudice-and-Zombies,28000000,February 5th 2016,PG-13,107,,Based on Fiction Book/Short Story,Black Comedy,Live Action,Science Fiction,Cross,United States
+0,133,The Darkness,"$10,753,574",1755,"$4,950,859",1769,Darkness-The,4000000,May 13th 2016,PG-13,92,,Original Screenplay,Horror,Live Action,Contemporary Fiction,Blumhouse,United States
+0,134,Nocturnal Animals,"$10,663,357",37,"$492,648",1262,Nocturnal-Animals,22500000,November 18th 2016,R,116,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Contemporary Fiction,Focus,United States
+0,135,Live by Night,"$10,378,555",4,"$33,336",2822,Live-by-Night,65000000,December 25th 2016,R,129,,Based on Fiction Book/Short Story,Drama,Live Action,Historical Fiction,Warner,United States
+0,136,The Lady in the Van,"$10,021,175",4,"$61,566",602,Lady-in-the-Van-The,,January 15th 2016,PG-13,103,,Based on Play,Drama,Live Action,Dramatization,Tri-Star,United States
+0,137,The Perfect Match,"$9,669,521",925,"$4,294,232",925,Perfect-Match-The,5000000,March 11th 2016,R,91,,Original Screenplay,Romantic Comedy,Live Action,Contemporary Fiction,Lionsgate,United States
+0,138,Popstar: Never Stop Never Stopping,"$9,496,130",2311,"$4,698,715",2313,Popstar-Never-Stop-Never-Stopping,20000000,June 3rd 2016,R,86,,Based on Web Series,Comedy,Live Action,Contemporary Fiction,Universal,United States
+0,139,Hardcore Henry,"$9,252,038",3015,"$5,107,604",3015,Hardcore-Henry,,April 8th 2016,R,95,,Original Screenplay,Action,Live Action,Science Fiction,Timur,Russian FederationUnited States
+0,140,The Lobster,"$9,196,278",7,"$50,003",563,Lobster-The,4500000,March 25th 2016,R,119,,Original Screenplay,Romantic Comedy,Live Action,Fantasy,Bord,FranceGreeceIrelandNetherlandsUnited Kingdom
+0,141,Meet the Blacks,"$9,097,072",1015,"$4,055,940",1015,Meet-the-Blacks,900000,April 1st 2016,R,93,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Hidden,United States
+0,143,Ratchet and Clank,"$8,813,410",2891,"$4,869,278",2895,Ratchet-and-Clank,20000000,April 29th 2016,PG,94,,Based on Game,Adventure,Digital Animation,Kids Fiction,Blockade,United States
+0,146,Loving,"$7,710,234",4,"$159,615",572,Loving,9000000,November 4th 2016,PG-13,123,,Based on Real Life Events,Drama,Live Action,Dramatization,Focus,United States
+0,147,Silence,"$7,100,177",4,"$130,880",1580,Silence,46500000,December 23rd 2016,R,161,,Based on Fiction Book/Short Story,Drama,Live Action,Historical Fiction,SharpSword,United States
+0,148,Shut In,"$6,900,335",2058,"$3,613,567",2058,Shut-In,10000000,November 11th 2016,R,91,,Original Screenplay,Thriller/Suspense,Live Action,Fantasy,EuropaCorp,United States
+0,149,The Brothers Grimsby,"$6,864,016",2235,"$3,258,327",2235,Brothers-Grimsby-The,35000000,March 11th 2016,R,82,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Columbia,United Kingdom
+0,150,The Young Messiah,"$6,469,813",1761,"$3,294,876",1769,Young-Messiah-The,16800000,March 11th 2016,PG-13,111,,Based on Comic/Graphic Novel,Drama,Live Action,Dramatization,Focus,United States
+0,151,Southside with You,"$6,304,223",813,"$2,868,403",897,Southside-with-You,,August 26th 2016,PG-13,84,,Original Screenplay,Drama,Live Action,Dramatization,IM,United States
+0,152,Captain Fantastic,"$5,879,835",4,"$93,824",550,Captain-Fantastic,,July 8th 2016,R,119,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Bleecker,United States
+0,153,20th Century Women,"$5,664,763",4,"$111,200",650,20th-Century-Women,,December 25th 2016,R,118,,Original Screenplay,Drama,Live Action,Historical Fiction,Modern,United States
+0,154,Sultan,"$5,599,781",283,"$2,371,100",283,Sultan,,July 6th 2016,R,170,,Original Screenplay,Action,Live Action,Contemporary Fiction,Yash,India
+0,155,Hunt for the Wilderpeople,"$5,205,471",5,"$78,439",200,Hunt-for-the-Wilderpeople,2500000,June 24th 2016,PG-13,101,,Based on Fiction Book/Short Story,Comedy,Live Action,Contemporary Fiction,Defender,New Zealand
+0,156,Bleed for This,"$5,083,906",1549,"$2,366,810",1549,Bleed-for-This,16000000,November 18th 2016,R,116,,Based on Real Life Events,Drama,Live Action,Dramatization,Open,United States
+0,157,Incarnate,"$4,799,774",1737,"$2,534,884",1737,Incarnate,,December 2nd 2016,PG-13,86,,Original Screenplay,Thriller/Suspense,Live Action,Fantasy,BH,United States
+0,158,Absolutely Fabulous: The Movie,"$4,772,155",313,"$1,861,118",355,Absolutely-Fabulous-The-Movie,,July 22nd 2016,R,91,,Based on TV,Comedy,Live Action,Contemporary Fiction,Fox,United Kingdom
+0,159,Hands of Stone,"$4,712,792",810,"$1,751,388",2011,Hands-of-Stone,20000000,August 26th 2016,R,105,,Based on Real Life Events,Drama,Live Action,Dramatization,Fuego,United States
+0,159,Hands of Stone,"$4,712,792",810,"$1,751,388",2011,Hands-of-Stone,20000000,August 26th 2016,R,105,,Based on Real Life Events,Drama,Live Action,Dramatization,Fuego,United States
+0,161,The Meddler,"$4,267,219",4,"$57,022",464,Meddler-The,3200000,April 22nd 2016,PG-13,100,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Stage,United States
+0,161,The Meddler,"$4,267,219",4,"$57,022",464,Meddler-The,3200000,April 22nd 2016,PG-13,100,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Stage,United States
+0,164,Swiss Army Man,"$4,210,454",3,"$105,453",636,Swiss-Army-Man,3000000,June 24th 2016,R,90,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Cold,United States
+0,165,Denial,"$4,073,448",5,"$93,728",648,Denial,,September 30th 2016,PG-13,110,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Participant,United Kingdom
+0,166,Morgan,"$3,915,251",2020,"$2,012,709",2020,Morgan,8000000,September 2nd 2016,R,120,,Original Screenplay,Thriller/Suspense,Live Action,Science Fiction,20th,United States
+0,167,Kabali,"$3,903,095",236,"$1,977,716",236,Kabali,,July 21st 2016,R,153,,Original Screenplay,Action,Live Action,Historical Fiction,V,India
+0,168,The Man Who Knew Infinity,"$3,877,922",6,"$80,325",348,Man-Who-Knew-Infinity-The,,April 29th 2016,PG-13,108,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Edward,IndiaUnited Kingdom
+0,169,Where to Invade Next,"$3,827,261",308,"$897,034",308,Where-to-Invade-Next,,December 23rd 2015 Oscar Qualifying Run by Drafthouse FilmsFebruary 12th 2016,R,115,,Based on Real Life Events,Documentary,Live Action,Factual,North,United States
+0,170,Max Steel,"$3,818,664",2034,"$2,182,216",2034,Max-Steel,,October 14th 2016,PG-13,91,,Based on Toy,Action,Live Action,Science Fiction,Paramount,United States
+0,171,Batman: The Killing Joke,"$3,775,000",0,$0,1325,Batman-The-Killing-Joke,,July 25th 2016,R,76,,Based on Comic/Graphic Novel,Action,Digital Animation,Super Hero,DC,United States
+0,172,Midnight Special,"$3,712,282",5,"$190,012",521,Midnight-Special,18000000,March 18th 2016,PG-13,102,,Original Screenplay,Drama,Live Action,Science Fiction,Warner,United States
+0,173,Rules Donâ??t Apply,"$3,652,206",2382,"$1,589,625",2386,Rules-Dont-Apply,26700000,November 23rd 2016,PG-13,127,,Based on Fiction Book/Short Story,Romantic Comedy,Live Action,Historical Fiction,Regency,United States
+0,174,Miss Sloane,"$3,500,605",3,"$59,797",1648,Miss-Sloane,18000000,November 25th 2016,R,132,,Original Screenplay,Drama,Live Action,Contemporary Fiction,EuropaCorp,FranceUnited States
+0,174,Miss Sloane,"$3,500,605",3,"$59,797",1648,Miss-Sloane,18000000,November 25th 2016,R,132,,Original Screenplay,Drama,Live Action,Contemporary Fiction,EuropaCorp,FranceUnited States
+0,176,Indignation,"$3,401,155",4,"$93,125",317,Indignation,,July 29th 2016,R,110,,Based on Fiction Book/Short Story,Drama,Live Action,Historical Fiction,Likely,United States
+0,177,Everybody Wants Some,"$3,400,278",19,"$312,355",454,Everybody-Wants-Some,10000000,March 30th 2016,R,116,,Original Screenplay,Comedy,Live Action,Historical Fiction,Paramount,United States
+0,178,Maggieâ??s Plan,"$3,351,735",5,"$63,308",335,Maggies-Plan,,May 20th 2016,R,98,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Freedom,United States
+0,179,Sing Street,"$3,237,118",5,"$63,573",525,Sing-Street,,April 15th 2016,PG-13,100,,Original Screenplay,Musical,Live Action,Historical Fiction,Weinstein,Ireland
+0,180,Mei Ren Yu,"$3,229,457",35,"$985,052",106,Mei-Ren-Yu,60720000,February 19th 2016,R,94,,Original Screenplay,Romantic Comedy,Live Action,Science Fiction,The,China
+0,181,Green Room,"$3,220,371",3,"$87,984",777,Green-Room,5000000,April 15th 2016,R,94,,Original Screenplay,Horror,Live Action,Contemporary Fiction,Broad,United States
+0,182,The Eagle Huntress,"$3,168,664",4,"$52,574",122,Eagle-Huntress-The,,November 2nd 2016,G,87,,Based on Real Life Events,Documentary,Live Action,Factual,Sony,MongoliaUnited KingdomUnited States
+0,183,Our Kind of Traitor,"$3,153,157",373,"$984,698",399,Our-Kind-of-Traitor,,July 1st 2016,R,90,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Historical Fiction,Ink,United Kingdom
+0,184,Compadres,"$3,127,773",368,"$1,397,434",368,Compadres,3000000,April 22nd 2016,R,110,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Pantelion,MexicoUnited States
+0,185,The Other Side of the Door,"$3,000,342",546,"$1,211,210",585,Other-Side-of-the-Door-The,,March 4th 2016,R,96,,Original Screenplay,Horror,Live Action,Contemporary Fiction,20th,IndiaUnited Kingdom
+0,186,Anthropoid,"$2,963,630",452,"$1,233,516",452,Anthropoid,,August 12th 2016,R,121,,Based on Real Life Events,Thriller/Suspense,Live Action,Dramatization,LD,Czech RepublicFranceUnited Kingdom
+0,186,Anthropoid,"$2,963,630",452,"$1,233,516",452,Anthropoid,,August 12th 2016,R,121,,Based on Real Life Events,Thriller/Suspense,Live Action,Dramatization,LD,Czech RepublicFranceUnited Kingdom
+0,189,Yip Man 3,"$2,679,437",103,"$784,839",115,Yip-Man-3,36000000,January 22nd 2016,PG-13,105,Ip Man,Based on Real Life Events,Action,Live Action,Historical Fiction,Pegasus,Hong Kong
+0,190,Miles Ahead,"$2,610,896",4,"$114,530",527,Miles-Ahead,,April 1st 2016,R,100,,Based on Real Life Events,Drama,Live Action,Dramatization,Bifrost,United States
+0,191,Kapoor & Sons,"$2,607,036",143,"$986,992",153,Kapoor-and-Sons,,March 18th 2016,R,150,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Dharma,India
+0,192,The Disappointments Room,"$2,423,467",1554,"$1,402,822",1554,Disappointments-Room-The,,September 9th 2016,R,91,,Based on Real Life Events,Horror,Live Action,Contemporary Fiction,Rogue,United States
+0,193,Hillsong: Let Hope Rise,"$2,394,725",816,"$1,357,243",816,Hillsong-Let-Hope-Rise,,September 16th 2016,PG,103,,Based on Musical Group,Documentary,Live Action,Factual,Grace,United States
+0,196,A Aa,"$2,313,043",115,"$1,213,057",115,A-Aa,,June 1st 2016,R,154,,Based on Fiction Book/Short Story,Romantic Comedy,Live Action,Contemporary Fiction,Haarika,India
+0,197,Paterson,"$2,141,423",4,"$69,335",70,Paterson,5000000,December 28th 2016,R,118,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Amazon,United States
+0,198,Busanhaeng,"$2,129,768",27,"$284,776",36,Busanhaeng,,July 22nd 2016,R,118,,Original Screenplay,Horror,Live Action,Science Fiction,Next,Republic of Korea
+0,199,Iâ??m Not Ashamed,"$2,082,980",505,"$927,161",516,Im-Not-Ashamed,1500000,October 21st 2016,PG-13,112,,Based on Real Life Events,Drama,Live Action,Dramatization,Pure,United States
+0,1,Star Wars Ep. VIII: The Last Jedi,"$619,194,559",4232,"$220,009,584",4232,Star-Wars-Ep-VIII-The-Last-Jedi,,December 15th 2017,PG-13,150,Star Wars,Original Screenplay,Action,Live Action,Science Fiction,Lucasfilm,United States
+0,2,Beauty and the Beast,"$504,014,165",4210,"$174,750,616",4210,Beauty-and-the-Beast,160000000,March 17th 2017,PG,123,,Remake,Musical,Animation/Live Action,Fantasy,Walt,United States
+0,3,Wonder Woman,"$412,563,408",4165,"$103,251,471",4165,Wonder-Woman,150000000,June 2nd 2017,PG-13,141,DC Extended Universe,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Warner,United States
+0,4,Jumanji: Welcome to the Jungle,"$394,217,830",3765,"$36,169,328",3849,Jumanji-Welcome-to-the-Jungle,90000000,December 20th 2017,PG-13,119,Jumanji,Original Screenplay,Adventure,Live Action,Fantasy,Columbia,United States
+0,5,Guardians of the Galaxy Vol 2,"$389,813,101",4347,"$146,510,104",4347,Guardians-of-the-Galaxy-Vol-2,200000000,May 5th 2017,PG-13,136,Marvel Cinematic UniverseGuardians of the Galaxy,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Marvel,United States
+0,6,Spider-Man: Homecoming,"$334,201,140",4348,"$117,027,503",4348,Spider-Man-Homecoming,175000000,July 7th 2017,PG-13,133,Spider-ManMarvel Cinematic Universe,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Marvel,United States
+0,7,It,"$327,481,748",4103,"$123,403,419",4148,It,35000000,September 8th 2017,R,135,,Remake,Horror,Live Action,Historical Fiction,Lin,United States
+0,8,Thor: Ragnarok,"$314,985,777",4080,"$122,744,989",4080,Thor-Ragnarok,180000000,November 3rd 2017,PG-13,130,ThorMarvel Cinematic UniverseHulk,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Marvel,United States
+0,9,Despicable Me 3,"$264,624,300",4529,"$72,434,025",4535,Despicable-Me-3,75000000,June 30th 2017,PG,90,Despicable Me,Original Screenplay,Adventure,Digital Animation,Kids Fiction,Universal,United States
+0,10,Justice League,"$228,973,443",4051,"$93,842,239",4051,Justice-League,300000000,November 17th 2017,PG-13,121,DC Extended Universe,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,DC,United States
+0,11,Logan,"$226,277,068",4071,"$88,411,916",4071,Logan,127000000,March 3rd 2017,R,135,WolverineX-Men,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Marvel,United States
+0,12,The Fate of the Furious,"$225,764,765",4310,"$98,786,705",4329,Fate-of-the-Furious-The,250000000,April 14th 2017,PG-13,136,Fast and the Furious,Original Screenplay,Action,Live Action,Contemporary Fiction,Universal,United States
+0,13,Coco,"$208,557,368",3987,"$50,802,605",3987,Coco,175000000,November 22nd 2017,PG,105,,Based on Folk Tale/Legend/Fairytale,Musical,Digital Animation,Kids Fiction,Disney-Pixar,United States
+0,14,Dunkirk,"$188,373,161",3720,"$50,513,488",4014,Dunkirk,150000000,July 21st 2017,PG-13,107,,Original Screenplay,Action,Live Action,Dramatization,Warner,FranceNetherlandsUnited KingdomUnited States
+0,15,Get Out,"$176,040,665",2781,"$33,377,060",3143,Get-Out,5000000,February 24th 2017,R,104,,Original Screenplay,Horror,Live Action,Contemporary Fiction,Blumhouse,United States
+0,16,The Lego Batman Movie,"$175,750,384",4088,"$53,003,468",4088,Lego-Batman-Movie-The,80000000,February 10th 2017,PG,106,Lego,Based on Toy,Adventure,Digital Animation,Kids Fiction,Warner,United States
+0,17,The Boss Baby,"$175,003,033",3773,"$50,198,902",3829,Boss-Baby-The,125000000,March 31st 2017,PG,97,The Boss Baby,Based on Fiction Book/Short Story,Adventure,Digital Animation,Kids Fiction,DreamWorks,United States
+0,18,Pirates of the Caribbean: Dead Men Tell No Tales,"$172,558,876",4276,"$62,983,253",4276,Pirates-of-the-Caribbean-Dead-Men-Tell-No-Tales,230000000,May 26th 2017,PG-13,135,Pirates of the Caribbean,Based on Theme Park Ride,Adventure,Live Action,Fantasy,Walt,United States
+0,19,Kong: Skull Island,"$168,052,812",3846,"$61,025,472",3846,Kong-Skull-Island,185000000,March 10th 2017,PG-13,118,King KongMonsterVerse,Original Screenplay,Adventure,Live Action,Science Fiction,Legendary,United States
+0,20,The Greatest Showman,"$165,456,962",3006,"$8,805,843",3342,Greatest-Showman-The,84000000,December 20th 2017,PG,105,,Based on Real Life Events,Musical,Live Action,Dramatization,Chernin,United States
+0,21,Cars 3,"$152,901,115",4256,"$53,688,680",4256,Cars-3,,June 16th 2017,G,109,Cars,Original Screenplay,Adventure,Digital Animation,Kids Fiction,Disney-Pixar,United States
+0,22,War for the Planet of the Apes,"$146,880,162",4022,"$56,262,929",4100,War-for-the-Planet-of-the-Apes,152000000,July 14th 2017,PG-13,142,Planet of the Apes,Original Screenplay,Action,Animation/Live Action,Science Fiction,20th,United States
+0,23,Split,"$138,141,585",3038,"$40,010,975",3373,Split,5000000,January 20th 2017,PG-13,116,Unbreakable,Original Screenplay,Horror,Live Action,Contemporary Fiction,Blumhouse,United States
+0,24,Wonder,"$132,147,858",3096,"$27,547,866",3519,Wonder,20000000,November 17th 2017,PG,113,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Participant,United States
+0,25,Transformers: The Last Knight,"$130,168,683",4069,"$44,680,073",4132,Transformers-The-Last-Knight,217000000,June 21st 2017,PG-13,148,Transformers,Based on TV,Action,Animation/Live Action,Science Fiction,Hasbro,United States
+0,26,Girls Trip,"$115,108,515",2591,"$31,201,920",2648,Girls-Trip,28000000,July 21st 2017,R,122,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Will,United States
+0,27,Fifty Shades Darker,"$114,434,010",3710,"$46,607,250",3714,Fifty-Shades-Darker,55000000,February 10th 2017,R,118,Fifty Shades of Grey,Based on Fiction Book/Short Story,Drama,Live Action,Contemporary Fiction,Universal,United States
+0,28,Baby Driver,"$107,825,862",3226,"$20,553,320",3226,Baby-Driver,34000000,June 28th 2017,R,115,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Tri-Star,United KingdomUnited States
+0,29,Pitch Perfect 3,"$104,891,820",3447,"$19,928,525",3468,Pitch-Perfect-3,,December 22nd 2017,PG-13,93,Pitch Perfect,Based on Factual Book/Article,Comedy,Live Action,Contemporary Fiction,Universal,United States
+0,30,Daddyâ??s Home 2,"$104,029,443",3575,"$29,651,193",3575,Daddys-Home-2,70000000,November 10th 2017,PG-13,100,Daddyâ??s Home,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Red,United States
+0,31,Murder on the Orient Express,"$102,826,543",3341,"$28,681,472",3354,Murder-on-the-Orient-Express,55000000,November 10th 2017,PG-13,114,Kenneth Branagh's Hercule Poirot,Remake,Drama,Live Action,Historical Fiction,The,United States
+0,32,Annabelle: Creation,"$102,092,201",3502,"$35,006,404",3565,Annabelle-Creation,15000000,August 11th 2017,R,109,The ConjuringAnnabelle,Original Screenplay,Horror,Live Action,Contemporary Fiction,New,United States
+0,33,Kingsman: The Golden Circle,"$100,234,838",4003,"$39,023,010",4038,Kingsman-The-Golden-Circle,104000000,September 22nd 2017,R,141,Kingsman,Based on Comic/Graphic Novel,Action,Live Action,Contemporary Fiction,20th,United KingdomUnited States
+0,34,Blade Runner 2049,"$92,054,159",4058,"$32,753,122",4058,Blade-Runner-2049,185000000,October 6th 2017,R,164,Blade Runner,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Science Fiction,Alcon,United States
+0,35,John Wick: Chapter Two,"$92,029,184",3113,"$30,436,123",3113,John-Wick-Chapter-Two,40000000,February 10th 2017,R,122,John Wick,Original Screenplay,Action,Live Action,Contemporary Fiction,Thunder,United States
+0,36,The Emoji Movie,"$86,089,513",4075,"$24,531,923",4075,Emoji-Movie-The,50000000,July 28th 2017,PG,86,,Original Screenplay,Adventure,Digital Animation,Kids Fiction,Sony,United States
+0,37,Power Rangers,"$85,364,450",3693,"$40,300,288",3693,Power-Rangers,120000000,March 24th 2017,PG-13,124,Power Rangers,Based on TV,Action,Live Action,Kids Fiction,Lionsgate,United States
+0,38,Ferdinand,"$83,147,224",3621,"$13,401,586",3630,Ferdinand,111000000,December 15th 2017,PG,107,,Based on Fiction Book/Short Story,Adventure,Digital Animation,Kids Fiction,Blue,United States
+0,39,The Post,"$80,764,840",9,"$526,011",2851,Post-The,50000000,December 22nd 2017,PG-13,115,,Based on Real Life Events,Drama,Live Action,Dramatization,DreamWorks,United States
+0,40,The Mummy,"$80,101,125",4035,"$31,668,375",4035,Mummy-The,195000000,June 9th 2017,PG-13,107,Dark Universe,Based on Folk Tale/Legend/Fairytale,Adventure,Live Action,Historical Fiction,Universal,United States
+0,41,The Hitmanâ??s Bodyguard,"$75,468,583",3377,"$21,384,504",3377,Hitmans-Bodyguard-The,30000000,August 18th 2017,R,111,,Original Screenplay,Action,Live Action,Contemporary Fiction,Millennium,United States
+0,42,Alien: Covenant,"$74,262,031",3761,"$36,160,621",3772,Alien-Covenant,97000000,May 19th 2017,R,123,Alien,Original Screenplay,Horror,Live Action,Science Fiction,20th,United States
+0,43,Captain Underpants: The First Epic Movie,"$73,921,000",3434,"$23,851,539",3529,Captain-Underpants-The-First-Epic-Movie,38000000,June 2nd 2017,PG,89,,Original Screenplay,Adventure,Digital Animation,Kids Fiction,DreamWorks,United States
+0,46,The Lego Ninjago Movie,"$59,281,555",4047,"$20,433,071",4047,Lego-Ninjago-Movie-The,70000000,September 22nd 2017,PG,101,Lego,Based on Toy,Adventure,Digital Animation,Kids Fiction,Lego,DenmarkUnited States
+0,47,The Shape of Water,"$58,354,925",2,"$166,564",2341,Shape-of-Water-The,19500000,December 1st 2017,R,123,,Original Screenplay,Drama,Live Action,Historical Fiction,Double,United States
+0,48,Baywatch,"$58,060,186",3647,"$18,503,871",3647,Baywatch,60000000,May 25th 2017,R,119,,Based on TV,Comedy,Live Action,Contemporary Fiction,Paramount,United States
+0,49,The Shack,"$57,386,418",2888,"$16,172,119",2888,Shack-The,,March 3rd 2017,PG-13,132,,Based on Fiction Book/Short Story,Drama,Live Action,Contemporary Fiction,Summit,United States
+0,50,Darkest Hour,"$55,762,270",4,"$175,006",1733,Darkest-Hour,,November 22nd 2017,PG-13,125,,Based on Fiction Book/Short Story,Drama,Live Action,Dramatization,Focus,United Kingdom
+0,51,Happy Death Day,"$55,683,845",3149,"$26,039,025",3535,Happy-Death-Day,5000000,October 13th 2017,PG-13,96,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Blumhouse,United States
+0,52,"Three Billboards Outside Ebbing, Missouri","$52,522,583",4,"$322,168",1726,Three-Billboards-Outside-Ebbing-Missouri,12000000,November 10th 2017,R,115,,Original Screenplay,Black Comedy,Live Action,Contemporary Fiction,Fox,United States
+0,53,Atomic Blonde,"$51,573,925",3304,"$18,286,420",3326,Atomic-Blonde,30000000,July 28th 2017,R,114,,Based on Comic/Graphic Novel,Thriller/Suspense,Live Action,Historical Fiction,Focus,United States
+0,54,American Made,"$51,342,000",3024,"$16,776,390",3098,American-Made,50000000,September 29th 2017,R,114,,Based on Real Life Events,Thriller/Suspense,Live Action,Dramatization,Cross,United States
+0,55,The Dark Tower,"$50,701,325",3451,"$19,153,698",3451,Dark-Tower-The,60000000,August 4th 2017,PG-13,95,,Based on Fiction Book/Short Story,Western,Live Action,Science Fiction,Sony,United States
+0,56,Lady Bird,"$48,481,649",4,"$364,437",1557,Lady-Bird,10000000,November 3rd 2017,R,93,,Original Screenplay,Drama,Live Action,Contemporary Fiction,IAC,United States
+0,57,Tyler Perryâ??s Boo 2! A Madea Halloween,"$47,319,572",2388,"$21,226,953",2388,Tyler-Perrys-Boo-2-A-Madea-Halloween,20000000,October 20th 2017,PG-13,100,Madea,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Lionsgate,United States
+0,58,Snatched,"$45,852,178",3501,"$19,542,248",3511,Snatched,42000000,May 12th 2017,R,90,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Feigco,United States
+0,59,The Great Wall,"$45,157,105",3325,"$18,469,620",3328,Great-Wall-The,150000000,February 17th 2017,PG-13,104,,Original Screenplay,Action,Live Action,Historical Fiction,Legendary,ChinaUnited States
+0,60,Smurfs: The Lost Village,"$45,020,282",3610,"$13,210,449",3610,Smurfs-The-Lost-Village,60000000,April 7th 2017,PG,90,The Smurfs,Based on Comic/Graphic Novel,Adventure,Digital Animation,Kids Fiction,Kerner,United States
+0,61,Going in Style,"$45,018,541",3061,"$11,932,330",3076,Going-in-Style,24000000,April 7th 2017,PG-13,96,,Remake,Comedy,Live Action,Contemporary Fiction,New,United States
+0,62,All Eyez on Me,"$44,922,302",2471,"$26,435,354",2471,All-Eyez-on-Me,45000000,June 16th 2017,R,137,,Based on Real Life Events,Drama,Live Action,Dramatization,Morgan,United States
+0,63,xXx: Return of Xander Cage,"$44,898,413",3600,"$20,130,142",3651,xXx-Return-of-Xander-Cage,85000000,January 20th 2017,PG-13,110,xXx,Original Screenplay,Action,Live Action,Contemporary Fiction,Paramount,United States
+0,64,47 Meters Down,"$44,307,193",2270,"$11,205,562",2471,47-Meters-Down,,June 16th 2017,PG-13,89,,Original Screenplay,Horror,Live Action,Contemporary Fiction,Dimension,United States
+0,65,The Big Sick,"$42,872,467",5,"$421,577",2597,Big-Sick-The,5000000,June 23rd 2017,R,119,,Based on Real Life Events,Romantic Comedy,Live Action,Dramatization,Amazon,United States
+0,66,The Star,"$40,847,995",2837,"$9,812,674",2976,Star-The,20000000,November 17th 2017,PG,86,,Based on Religious Text,Adventure,Digital Animation,Kids Fiction,Sony,United States
+0,67,Ghost in the Shell,"$40,563,557",3440,"$18,676,033",3440,Ghost-in-the-Shell,110000000,March 31st 2017,PG-13,100,,Based on Comic/Graphic Novel,Action,Live Action,Science Fiction,DreamWorks,United States
+0,68,Valerian and the City of a Thousand Planets,"$40,479,370",3553,"$17,007,624",3553,Valerian-and-the-City-of-a-Thousand-Planets,180000000,July 21st 2017,PG-13,129,,Based on Comic/Graphic Novel,Adventure,Live Action,Science Fiction,EuropaCorp,France
+0,69,King Arthur: Legend of the Sword,"$39,175,066",3702,"$15,371,270",3702,King-Arthur-Legend-of-the-Sword,175000000,May 12th 2017,PG-13,126,,Based on Folk Tale/Legend/Fairytale,Adventure,Live Action,Fantasy,Weed,AustraliaUnited States
+0,70,Jigsaw,"$38,052,832",2941,"$16,640,452",2941,Jigsaw,10000000,October 27th 2017,R,91,Saw,Original Screenplay,Horror,Live Action,Contemporary Fiction,Twisted,United States
+0,71,American Assassin,"$36,249,674",3154,"$14,846,778",3154,American-Assassin,,September 15th 2017,R,112,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Contemporary Fiction,CBS,United States
+0,73,"Everything, Everything","$34,121,140",2801,"$11,727,390",2801,Everything-Everything,10000000,May 19th 2017,PG-13,96,,Based on Fiction Book/Short Story,Drama,Live Action,Contemporary Fiction,Metro-Goldwyn-Mayer,United States
+0,74,Wind River,"$33,800,859",4,"$161,558",2890,Wind-River,,August 4th 2017,R,107,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Weinstein,United States
+0,75,Geostorm,"$33,700,160",3246,"$13,707,376",3246,Geostorm,100000000,October 20th 2017,PG-13,109,,Original Screenplay,Action,Live Action,Science Fiction,Skydance,United States
+0,76,Monster Trucks,"$33,370,166",3119,"$10,950,705",3119,Monster-Trucks,125000000,January 13th 2017,PG-13,104,,Original Screenplay,Adventure,Animation/Live Action,Science Fiction,Paramount,United States
+0,77,Fist Fight,"$32,187,017",3185,"$12,201,873",3185,Fist-Fight,25000000,February 17th 2017,R,91,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,New,United States
+0,78,How to Be a Latin Lover,"$32,149,404",1118,"$12,252,439",1203,How-to-Be-a-Latin-Lover,,April 28th 2017,PG-13,115,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,3Pas,United States
+0,79,Kidnap,"$30,718,107",2387,"$10,016,323",2418,Kidnap,,August 4th 2017,R,82,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Aviron,United States
+0,80,Underworld: Blood Wars,"$30,405,609",3070,"$13,688,751",3070,Underworld-Blood-Wars,,January 6th 2017,R,91,Underworld,Based on Folk Tale/Legend/Fairytale,Action,Live Action,Fantasy,Lakeshore,United States
+0,81,The Mountain Between Us,"$30,348,555",3088,"$10,551,336",3259,Mountain-Between-Us-The,,October 6th 2017,PG-13,104,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Contemporary Fiction,Chernin,United States
+0,82,Life,"$30,234,022",3146,"$12,501,936",3146,Life,58000000,March 24th 2017,R,103,,Original Screenplay,Thriller/Suspense,Live Action,Science Fiction,Columbia,United KingdomUnited States
+0,83,Hostiles,"$29,532,994",3,"$22,849",2934,Hostiles,,December 22nd 2017,R,127,,Based on Fiction Book/Short Story,Western,Live Action,Historical Fiction,Waypoint,United States
+0,84,"I, Tonya","$29,175,785",4,"$264,155",1450,I-Tonya,,December 8th 2017,R,120,,Based on Real Life Events,Black Comedy,Live Action,Dramatization,Clubhouse,United States
+0,85,Mollyâ??s Game,"$28,770,610",271,"$2,349,967",1708,Mollys-Game,,December 25th 2017,R,140,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Entertainment,United States
+0,86,The Nut Job 2: Nutty by Nature,"$28,370,522",4003,"$8,342,311",4003,Nut-Job-2-Nutty-by-Nature-The,40000000,August 11th 2017,PG,91,The Nut Job,Based on Fiction Book/Short Story,Adventure,Digital Animation,Kids Fiction,Toonbox,CanadaRepublic of KoreaUnited States
+0,87,Rings,"$27,793,018",2931,"$13,002,632",2931,Rings,25000000,February 3rd 2017,PG-13,102,Ring,Original Screenplay,Horror,Live Action,Contemporary Fiction,Parkes+Macdonald,United States
+0,88,Logan Lucky,"$27,778,642",3031,"$7,600,036",3031,Logan-Lucky,29000000,August 18th 2017,PG-13,119,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,FilmNation,United States
+0,89,Home Again,"$27,020,284",2940,"$8,567,881",3036,Home-Again,15000000,September 8th 2017,PG-13,97,,Original Screenplay,Romantic Comedy,Live Action,Contemporary Fiction,Open,United States
+0,90,Resident Evil: The Final Chapter,"$26,844,692",3104,"$13,601,682",3104,Resident-Evil-The-Final-Chapter,40000000,January 27th 2017,R,106,Resident Evil,Based on Game,Action,Live Action,Science Fiction,Screen,United States
+0,91,The House,"$25,584,504",3134,"$8,724,795",3134,House-The,40000000,June 30th 2017,R,88,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,New,United States
+0,92,All the Money in the World,"$25,037,562",2074,"$5,584,684",2123,All-the-Money-in-the-World,,December 25th 2017,R,132,,Based on Factual Book/Article,Thriller/Suspense,Live Action,Dramatization,Imperative,United KingdomUnited States
+0,93,Gifted,"$24,801,212",56,"$446,380",2215,Gifted,,April 7th 2017,PG-13,101,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Fox,United States
+0,94,Downsizing,"$24,449,754",2668,"$4,954,287",2668,Downsizing,68000000,December 22nd 2017,R,135,,Original Screenplay,Comedy,Live Action,Science Fiction,Paramount,United States
+0,95,The Bye Bye Man,"$22,395,806",2220,"$13,501,349",2220,Bye-Bye-Man-The,7400000,January 13th 2017,PG-13,96,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Fantasy,Huayi,United States
+0,96,Victoria and Abdul,"$22,245,070",4,"$158,845",1060,Victoria-and-Abdul,,September 22nd 2017,PG-13,112,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Focus,United KingdomUnited States
+0,97,Rough Night,"$22,177,334",3162,"$8,004,283",3162,Rough-Night,20000000,June 16th 2017,R,101,,Original Screenplay,Black Comedy,Live Action,Contemporary Fiction,Columbia,United States
+0,98,My Little Pony: The Movie,"$21,885,107",2528,"$8,885,899",2528,My-Little-Pony-The-Movie,,October 6th 2017,PG,99,,Based on Toy,Adventure,Digital Animation,Kids Fiction,Allspark,CanadaUnited States
+0,98,My Little Pony: The Movie,"$21,885,107",2528,"$8,885,899",2528,My-Little-Pony-The-Movie,,October 6th 2017,PG,99,,Based on Toy,Adventure,Digital Animation,Kids Fiction,Allspark,CanadaUnited States
+0,100,The Disaster Artist,"$21,119,542",19,"$1,211,345",1010,Disaster-Artist-The,,December 1st 2017,R,98,,Based on Factual Book/Article,Comedy,Live Action,Dramatization,Good,United States
+0,101,Sleepless,"$20,783,704",1803,"$8,344,128",1803,Sleepless,,January 13th 2017,R,95,,Based on Movie,Thriller/Suspense,Live Action,Contemporary Fiction,Open,United States
+0,102,Diary of a Wimpy Kid: The Long Haul,"$20,738,724",3157,"$7,126,084",3174,Diary-of-a-Wimpy-Kid-The-Long-Haul,22000000,May 19th 2017,PG,91,Diary of a Wimpy Kid,Based on Fiction Book/Short Story,Adventure,Live Action,Contemporary Fiction,Color,United States
+0,103,The Circle,"$20,497,844",3163,"$9,034,148",3163,Circle-The,18000000,April 28th 2017,PG-13,110,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Science Fiction,Image,United States
+0,104,Phantom Thread,"$20,430,175",4,"$216,495",1186,Phantom-Thread,,December 25th 2017,R,130,,Original Screenplay,Drama,Live Action,Historical Fiction,Annapurna,United States
+0,105,Baahubali 2: The Conclusion,"$18,985,794",419,"$10,430,497",425,Baahubali-2-The-Conclusion,30000000,April 28th 2017,R,167,Baahubali,Based on Fiction Book/Short Story,Action,Live Action,Historical Fiction,Dharma,India
+0,106,CHiPS,"$18,600,152",2464,"$7,722,802",2464,CHiPS,25000000,March 24th 2017,R,100,,Based on TV,Action,Live Action,Contemporary Fiction,Warner,United States
+0,107,Only the Brave,"$18,340,051",2577,"$6,002,665",2577,Only-the-Brave,38000000,October 20th 2017,PG-13,134,,Based on Real Life Events,Drama,Live Action,Dramatization,Columbia,United States
+0,108,mother!,"$17,800,004",2368,"$7,534,673",2368,mother,,September 15th 2017,R,108,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Paramount,United States
+0,109,Father Figures,"$17,501,244",2902,"$3,287,451",2902,Father-Figures,25000000,December 22nd 2017,R,113,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Alcon,United States
+0,110,The Zookeeperâ??s Wife,"$17,445,186",541,"$3,288,835",1057,Zookeepers-Wife-The,20000000,March 31st 2017,PG-13,126,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Focus,United States
+0,111,The Glass Castle,"$17,273,059",1461,"$4,678,548",1461,Glass-Castle-The,,August 11th 2017,PG-13,127,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Lionsgate,United States
+0,112,Flatliners,"$16,883,115",2552,"$6,574,326",2552,Flatliners,20000000,September 29th 2017,PG-13,110,Flatliners,Original Screenplay,Thriller/Suspense,Live Action,Science Fiction,Columbia,United States
+0,113,Detroit,"$16,790,139",20,"$350,190",3007,Detroit,,July 28th 2017,R,143,,Based on Real Life Events,Drama,Live Action,Dramatization,Annapurna,United States
+0,114,Call Me by Your Name,"$15,764,116",4,"$412,932",815,Call-Me-by-Your-Name,,November 24th 2017,R,131,,Based on Fiction Book/Short Story,Drama,Live Action,Historical Fiction,RT,BrazilFranceItalyUnited States
+0,115,The Case for Christ,"$14,678,714",1174,"$3,967,885",1386,Case-for-Christ-The,,April 7th 2017,PG,112,,Based on Real Life Events,Drama,Live Action,Dramatization,Pure,United States
+0,116,Wish Upon,"$14,301,505",2250,"$5,467,084",2250,Wish-Upon,12000000,July 14th 2017,PG-13,89,,Original Screenplay,Horror,Live Action,Contemporary Fiction,Broad,United States
+0,117,It Comes at Night,"$13,985,117",2533,"$5,988,370",2533,It-Comes-at-Night,5000000,June 9th 2017,R,91,,Original Screenplay,Horror,Live Action,Contemporary Fiction,Animal,United States
+0,118,Born in China,"$13,873,211",1508,"$4,790,367",1508,Born-in-China,,April 21st 2017,G,79,,Based on Real Life Events,Documentary,Live Action,Factual,Disney,ChinaUnited KingdomUnited States
+0,119,Megan Leavey,"$13,406,304",1956,"$3,810,867",1956,Megan-Leavey,,June 9th 2017,PG-13,116,,Based on Real Life Events,Drama,Live Action,Dramatization,LD,United States
+0,120,The Founder,"$12,786,243",1115,"$3,404,102",1115,Founder-The,15000000,December 31st 2016,PG-13,115,,Based on Real Life Events,Drama,Live Action,Dramatization,FilmNation,United States
+0,121,Battle of the Sexes,"$12,638,526",21,"$518,332",1822,Battle-of-the-Sexes,,September 22nd 2017,PG-13,121,,Based on Real Life Events,Drama,Live Action,Dramatization,Fox,United States
+0,122,Before I Fall,"$12,241,072",2346,"$4,690,214",2346,Before-I-Fall,,March 3rd 2017,PG-13,99,,Based on Fiction Book/Short Story,Drama,Live Action,Contemporary Fiction,Awesomeness,United States
+0,123,"Roman J. Israel, Esq.","$11,962,712",4,"$61,999",1669,Roman-J-Israel-Esq,22000000,November 17th 2017,PG-13,129,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Columbia,United States
+0,124,Unforgettable,"$11,368,012",2417,"$4,785,431",2417,Unforgettable,12000000,April 21st 2017,R,114,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Warner,United States
+0,125,The Beguiled,"$10,576,669",4,"$229,292",941,Beguiled-The,,June 23rd 2017,R,94,,Remake,Western,Live Action,Historical Fiction,Focus,United States
+0,126,The Belko Experiment,"$10,166,820",1341,"$4,137,230",1341,Belko-Experiment-The,5000000,March 17th 2017,R,88,,Original Screenplay,Horror,Live Action,Contemporary Fiction,Orion,United States
+0,127,Marshall,"$10,051,659",821,"$3,000,805",821,Marshall,12000000,October 13th 2017,PG-13,118,,Based on Real Life Events,Drama,Live Action,Dramatization,Chestnut,United States
+0,128,Thank You for Your Service,"$9,479,390",2054,"$3,817,700",2083,Thank-You-for-Your-Service,20000000,October 27th 2017,R,108,,Based on Factual Book/Article,Drama,Live Action,Dramatization,DreamWorks,United States
+0,130,The Lost City of Z,"$8,574,339",4,"$110,175",866,Lost-City-of-Z-The,,April 14th 2017,PG-13,140,,Based on Factual Book/Article,Action,Live Action,Dramatization,Sierra,United States
+0,131,The Promise,"$8,224,288",2251,"$4,095,718",2251,Promise-The,90000000,April 21st 2017,PG-13,134,,Original Screenplay,Drama,Live Action,Historical Fiction,Survival,SpainUnited States
+0,133,The Space Between Us,"$7,885,294",2812,"$3,775,596",2812,Space-Between-Us-The,,February 3rd 2017,PG-13,121,,Original Screenplay,Drama,Live Action,Science Fiction,STX,United States
+0,134,Let There Be Light,"$7,233,471",373,"$1,729,535",774,Let-There-Be-Light,,October 27th 2017,PG-13,100,,Based on Fiction Book/Short Story,Drama,Live Action,Contemporary Fiction,Wildfire,United States
+0,135,Gold,"$7,227,038",2166,"$3,471,316",2166,Gold,,January 27th 2017,R,121,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Black,United States
+0,137,Beatriz at Dinner,"$7,115,854",5,"$141,959",683,Beatriz-at-Dinner,,June 9th 2017,R,83,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Killer,United States
+0,138,Birth of the Dragon,"$6,901,965",1618,"$2,702,430",1633,Birth-of-the-Dragon,,August 25th 2017,PG-13,91,,Based on Real Life Events,Action,Live Action,Historical Fiction,Kylin,United States
+0,139,The Snowman,"$6,670,765",1812,"$3,372,565",1815,Snowman-The,35000000,October 20th 2017,R,142,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Contemporary Fiction,Working,United Kingdom
+0,140,Loving Vincent,"$6,647,957",1,"$23,180",218,Loving-Vincent,,September 22nd 2017,PG-13,95,,Based on Real Life Events,Drama,Animation/Live Action,Dramatization,Breakthru,United Kingdom
+0,141,Same Kind of Different as Me,"$6,423,605",1362,"$2,591,985",1362,Same-Kind-of-Different-as-Me,,October 20th 2017,PG-13,120,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Paramount,United States
+0,142,Lowriders,"$6,179,955",295,"$2,403,885",365,Lowriders,,May 12th 2017,PG-13,99,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Blumhouse,United States
+0,143,Maudie,"$6,170,998",4,"$45,920",233,Maudie,,April 14th 2017,PG-13,117,,Based on Real Life Events,Drama,Live Action,Historical Fiction,Parallel,CanadaIreland
+0,144,Just Getting Started,"$6,069,605",2161,"$3,201,459",2161,Just-Getting-Started,22000000,December 8th 2017,PG-13,90,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Broad,United States
+0,145,The Florida Project,"$5,878,335",4,"$156,833",434,Florida-Project-The,,October 6th 2017,R,115,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Cre,United States
+0,146,All Saints,"$5,802,208",846,"$1,514,278",846,All-Saints,2000000,August 25th 2017,PG,90,,Based on Real Life Events,Drama,Live Action,Dramatization,Affirm,United States
+0,147,Suburbicon,"$5,775,178",2046,"$2,840,246",2046,Suburbicon,,October 27th 2017,R,105,,Original Screenplay,Black Comedy,Live Action,Contemporary Fiction,Black,United States
+0,148,The Man Who Invented Christmas,"$5,676,110",626,"$1,357,129",720,Man-Who-Invented-Christmas-The,,November 22nd 2017,PG,104,,Based on Real Life Events,Adventure,Live Action,Dramatization,Parallel,CanadaIrelandUnited Kingdom
+0,149,Paris Can Wait,"$5,608,745",4,"$98,850",214,Paris-Can-Wait,,May 12th 2017,PG,92,,Original Screenplay,Romantic Comedy,Live Action,Contemporary Fiction,Lifetime,United States
+0,152,The Book of Henry,"$4,288,104",579,"$1,424,540",650,Book-of-Henry-The,,June 16th 2017,PG-13,105,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Sidney,United States
+0,153,Stronger,"$4,211,129",574,"$1,611,040",645,Stronger,,September 22nd 2017,R,116,,Based on Factual Book/Article,Drama,Live Action,Dramatization,Lionsgate,United States
+0,154,The Hero,"$4,077,333",4,"$45,317",447,Hero-The,,June 9th 2017,R,96,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Northern,United States
+0,155,Sleight,"$3,930,990",565,"$1,701,785",591,Sleight,,April 28th 2017,R,89,,Original Screenplay,Action,Live Action,Science Fiction,WWE,United States
+0,158,Friend Request,"$3,759,078",2573,"$2,002,863",2573,Friend-Request,,September 22nd 2017,R,92,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Wiedemann,Germany
+0,160,Table 19,"$3,614,896",868,"$1,597,928",868,Table-19,,March 3rd 2017,PG-13,87,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,3311,FinlandUnited States
+0,161,Their Finest,"$3,603,484",4,"$76,197",330,Their-Finest,,April 7th 2017,R,117,,Based on Fiction Book/Short Story,Romantic Comedy,Live Action,Historical Fiction,EuropaCorp,United Kingdom
+0,162,Phoenix Forgotten,"$3,600,146",1633,"$1,816,499",1633,Phoenix-Forgotten,,April 21st 2017,PG-13,85,,Based on Real Life Events,Thriller/Suspense,Live Action,Dramatization,Cinelou,United States
+0,164,Til Death Do Us Part,"$3,424,454",562,"$1,527,289",562,Til-Death-Do-Us-Part,,September 29th 2017,PG-13,101,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Novus,United States
+0,165,Colossal,"$3,194,575",4,"$120,226",342,Colossal,,April 7th 2017,R,109,,Original Screenplay,Drama,Live Action,Science Fiction,Voltage,CanadaSpain
+0,166,Ingrid Goes West,"$3,021,133",3,"$135,301",647,Ingrid-Goes-West,,August 11th 2017,R,97,,Original Screenplay,Black Comedy,Live Action,Contemporary Fiction,Star,United States
+0,166,Ingrid Goes West,"$3,021,133",3,"$135,301",647,Ingrid-Goes-West,,August 11th 2017,R,97,,Original Screenplay,Black Comedy,Live Action,Contemporary Fiction,Star,United States
+0,166,Ingrid Goes West,"$3,021,133",3,"$135,301",647,Ingrid-Goes-West,,August 11th 2017,R,97,,Original Screenplay,Black Comedy,Live Action,Contemporary Fiction,Star,United States
+0,170,My Cousin Rachel,"$2,716,368",523,"$969,941",531,My-Cousin-Rachel,,June 9th 2017,PG-13,106,,Remake,Drama,Live Action,Contemporary Fiction,Fox,United States
+0,170,My Cousin Rachel,"$2,716,368",523,"$969,941",531,My-Cousin-Rachel,,June 9th 2017,PG-13,106,,Remake,Drama,Live Action,Contemporary Fiction,Fox,United States
+0,170,My Cousin Rachel,"$2,716,368",523,"$969,941",531,My-Cousin-Rachel,,June 9th 2017,PG-13,106,,Remake,Drama,Live Action,Contemporary Fiction,Fox,United States
+0,175,LBJ,"$2,468,683",659,"$1,110,565",659,LBJ,,November 3rd 2017,R,98,,Based on Real Life Events,Drama,Live Action,Dramatization,Acacia,United States
+0,176,Tulip Fever,"$2,455,635",765,"$1,158,017",772,Tulip-Fever,25000000,September 1st 2017,R,105,,Based on Fiction Book/Short Story,Drama,Live Action,Historical Fiction,Worldview,United KingdomUnited States
+0,176,Tulip Fever,"$2,455,635",765,"$1,158,017",772,Tulip-Fever,25000000,September 1st 2017,R,105,,Based on Fiction Book/Short Story,Drama,Live Action,Historical Fiction,Worldview,United KingdomUnited States
+0,178,T2: Trainspotting,"$2,402,004",5,"$170,575",331,T2-Trainspotting,18000000,March 17th 2017,R,117,Trainspotting,Based on Fiction Book/Short Story,Drama,Live Action,Contemporary Fiction,Decibel,United Kingdom
+0,180,The Resurrection of Gavin Stone,"$2,303,792",890,"$1,206,771",890,Resurrection-of-Gavin-Stone-The,,January 20th 2017,PG,92,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,WWE,United States
+0,180,The Resurrection of Gavin Stone,"$2,303,792",890,"$1,206,771",890,Resurrection-of-Gavin-Stone-The,,January 20th 2017,PG,92,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,WWE,United States
+0,182,Collide,"$2,280,004",2045,"$1,512,824",2045,Collide,29200000,February 24th 2017,PG-13,99,,Original Screenplay,Action,Live Action,Contemporary Fiction,Sycamore,United Kingdom
+0,183,Jeepers Creepers 3,"$2,235,162",0,$0,669,Jeepers-Creepers-3,,September 26th 2017,R,100,Jeepers Creepers,Original Screenplay,Horror,Live Action,Contemporary Fiction,American,United States
+0,184,The Lovers,"$2,194,521",4,"$66,286",443,Lovers-The,,May 5th 2017,R,94,,Original Screenplay,Romantic Comedy,Live Action,Contemporary Fiction,A24,United States
+0,184,The Lovers,"$2,194,521",4,"$66,286",443,Lovers-The,,May 5th 2017,R,94,,Original Screenplay,Romantic Comedy,Live Action,Contemporary Fiction,A24,United States
+0,187,Good Time,"$2,026,498",4,"$125,101",721,Good-Time,,August 11th 2017,R,100,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Elara,United States
+0,193,The Wall,"$1,803,064",540,"$897,955",540,Wall-The,,May 12th 2017,R,90,,Original Screenplay,Thriller/Suspense,Live Action,Contemporary Fiction,Amazon,United States
+0,194,Free Fire,"$1,799,322",1070,"$994,430",1070,Free-Fire,10000000,April 21st 2017,R,90,,Original Screenplay,Action,Live Action,Historical Fiction,Film4,United Kingdom
+0,195,The Last Word,"$1,779,620",4,"$37,519",380,Last-Word-The,,March 3rd 2017,R,108,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Myriad,United States
+0,195,The Last Word,"$1,779,620",4,"$37,519",380,Last-Word-The,,March 3rd 2017,R,108,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Myriad,United States
+0,195,The Last Word,"$1,779,620",4,"$37,519",380,Last-Word-The,,March 3rd 2017,R,108,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Myriad,United States
+0,195,The Last Word,"$1,779,620",4,"$37,519",380,Last-Word-The,,March 3rd 2017,R,108,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Myriad,United States
+0,195,The Last Word,"$1,779,620",4,"$37,519",380,Last-Word-The,,March 3rd 2017,R,108,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Myriad,United States
+0,200,The Comedian,"$1,658,706",848,"$1,100,000",848,Comedian-The,,February 3rd 2017,R,120,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Cinelou,United States
+0,1,Black Panther,"$516,628,076",4020,"$202,003,951",4084,Black-Panther,200000000,February 16th 2018,PG-13,120,Marvel Cinematic Universe,Based on Comic/Graphic Novel,Action,Live Action,Super Hero,Marvel,United States
+0,2,Fifty Shades Freed,"$96,739,485",3768,"$38,560,195",3768,Fifty-Shades-Freed,55000000,February 9th 2018,R,120,Fifty Shades of Grey,Original Screenplay,Drama,Live Action,Contemporary Fiction,Michael,United States
+0,3,Peter Rabbit,"$86,037,268",3725,"$25,010,928",3725,Peter-Rabbit,50000000,February 9th 2018,PG,95,,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,Kids Fiction,Columbia,AustraliaUnited States
+0,4,Insidious: The Last Key,"$67,347,895",3116,"$29,581,355",3150,Insidious-The-Last-Key,,January 5th 2018,PG-13,103,Insidious,Original Screenplay,Horror,Live Action,Contemporary Fiction,Blumhouse,United States
+0,5,Maze Runner: The Death Cure,"$57,234,604",3787,"$24,167,011",3793,Maze-Runner-The-Death-Cure,61000000,January 26th 2018,PG-13,114,The Maze Runner,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Science Fiction,Gotham,United States
+0,6,12 Strong,"$45,228,422",3002,"$15,815,025",3018,12-Strong,35000000,January 19th 2018,R,90,,Based on Fiction Book/Short Story,Drama,Live Action,Historical Fiction,Alcon,United States
+0,7,Den of Thieves,"$44,770,461",2432,"$15,206,108",2432,Den-of-Thieves,30000000,January 19th 2018,R,140,,Original Screenplay,Action,Live Action,Contemporary Fiction,Diamond,United States
+0,8,Paddington 2,"$40,143,753",3702,"$11,001,961",3702,Paddington-2,,January 12th 2018,PG,103,Paddington,Based on Fiction Book/Short Story,Adventure,Animation/Live Action,Kids Fiction,Heyday,FranceUnited Kingdom
+0,9,The Commuter,"$36,268,012",2892,"$13,701,452",2892,Commuter-The,,January 12th 2018,PG-13,105,,Original Screenplay,Action,Live Action,Contemporary Fiction,StudioCanal,United States
+0,10,Game Night,"$36,209,360",3488,"$17,005,332",3502,Game-Night,37000000,February 23rd 2018,R,93,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Aggregate,United States
+0,12,Winchester,"$24,674,986",2480,"$9,307,626",2480,Winchester,3500000,February 2nd 2018,PG-13,99,,Based on Real Life Events,Thriller/Suspense,Live Action,Dramatization,CBS,United States
+0,13,Annihilation,"$22,429,442",2012,"$11,071,584",2112,Annihilation,55000000,February 23rd 2018,R,115,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Science Fiction,Skydance,United KingdomUnited States
+0,14,Red Sparrow,"$21,698,508",3056,"$16,853,422",3056,Red-Sparrow,69000000,March 2nd 2018,R,139,,Based on Fiction Book/Short Story,Thriller/Suspense,Live Action,Contemporary Fiction,Chernin,United States
+0,15,Proud Mary,"$20,868,638",2125,"$9,959,053",2125,Proud-Mary,,January 12th 2018,R,88,,Original Screenplay,Action,Live Action,Contemporary Fiction,Screen,United States
+0,16,Death Wish,"$16,414,546",2847,"$13,010,267",2847,Death-Wish,30000000,March 2nd 2018,R,107,,Remake,Action,Live Action,Contemporary Fiction,Metro-Goldwyn-Mayer,United States
+0,17,Forever My Girl,"$16,176,249",1114,"$4,245,630",1427,Forever-My-Girl,3500000,January 19th 2018,PG,104,,Based on Fiction Book/Short Story,Drama,Live Action,Contemporary Fiction,LD,United States
+0,19,Early Man,"$7,882,355",2494,"$3,190,525",2494,Early-Man,50000000,February 16th 2018,PG,89,,Original Screenplay,Adventure,Stop-Motion Animation,Kids Fiction,Aardman,FranceUnited Kingdom
+0,20,Every Day,"$5,512,367",1667,"$3,016,149",1669,Every-Day,,February 23rd 2018,PG-13,95,,Based on Fiction Book/Short Story,Drama,Live Action,Contemporary Fiction,Likely,United States
+0,21,Samson,"$4,531,753",1249,"$1,942,569",1249,Samson,,February 16th 2018,PG-13,110,,Based on Religious Text,Drama,Live Action,Dramatization,Pure,South AfricaUnited States
+0,21,Samson,"$4,531,753",1249,"$1,942,569",1249,Samson,,February 16th 2018,PG-13,110,,Based on Religious Text,Drama,Live Action,Dramatization,Pure,South AfricaUnited States
+0,31,Bilal: A New Breed of Hero,"$490,515",300,"$309,951",300,Bilal-A-New-Breed-of-Hero,30000000,February 2nd 2018,PG-13,103,,Based on Real Life Events,Adventure,Digital Animation,Dramatization,Barajoun,Saudi ArabiaUnited Arab Emirates
+0,31,Bilal: A New Breed of Hero,"$490,515",300,"$309,951",300,Bilal-A-New-Breed-of-Hero,30000000,February 2nd 2018,PG-13,103,,Based on Real Life Events,Adventure,Digital Animation,Dramatization,Barajoun,Saudi ArabiaUnited Arab Emirates
+0,36,The Final Year,"$191,900",35,"$67,971",39,Final-Year-The,,January 19th 2018,R,89,,Based on Real Life Events,Documentary,Live Action,Factual,HBO,AustriaCameroonCanadaCape VerdeChadCubaDenmarkGeorgiaGermanyGreeceGreenlandJapanLao Peopleâ??s Democratic RepublicMexicoMyanmarNigeriaPeruSri LankaSwitzerlandUnited KingdomUnited StatesViet Nam
+0,36,The Final Year,"$191,900",35,"$67,971",39,Final-Year-The,,January 19th 2018,R,89,,Based on Real Life Events,Documentary,Live Action,Factual,HBO,AustriaCameroonCanadaCape VerdeChadCubaDenmarkGeorgiaGermanyGreeceGreenlandJapanLao Peopleâ??s Democratic RepublicMexicoMyanmarNigeriaPeruSri LankaSwitzerlandUnited KingdomUnited StatesViet Nam
+0,36,The Final Year,"$191,900",35,"$67,971",39,Final-Year-The,,January 19th 2018,R,89,,Based on Real Life Events,Documentary,Live Action,Factual,HBO,AustriaCameroonCanadaCape VerdeChadCubaDenmarkGeorgiaGermanyGreeceGreenlandJapanLao Peopleâ??s Democratic RepublicMexicoMyanmarNigeriaPeruSri LankaSwitzerlandUnited KingdomUnited StatesViet Nam
+0,49,Wastelander,"$57,545",22,"$23,078",22,Wastelander,,January 12th 2018,R,90,,Original Screenplay,Action,Live Action,Science Fiction,Point,United States
+0,51,Django,"$56,556",4,"$11,722",7,Django,,January 5th 2018,R,115,,Based on Factual Book/Article,Documentary,Live Action,Factual,Arches,France
+0,54,Humor Me,"$38,419",1,"$3,342",5,Humor-Me,,January 12th 2018,R,93,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Shout!,United States
+0,54,Humor Me,"$38,419",1,"$3,342",5,Humor-Me,,January 12th 2018,R,93,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Shout!,United States
+0,62,Ridge Runners,"$26,019",7,"$8,015",7,Ridge-Runners,,January 19th 2018,R,81,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Ridge,United States
+0,62,Ridge Runners,"$26,019",7,"$8,015",7,Ridge-Runners,,January 19th 2018,R,81,,Original Screenplay,Drama,Live Action,Contemporary Fiction,Ridge,United States
+0,65,Freak Show,"$18,216",1,"$4,809",9,Freak-Show,,January 12th 2018,R,91,,Original Screenplay,Comedy,Live Action,Contemporary Fiction,Maven,United States
+0,67,The Female Brain,"$16,273",2,"$6,886",26,Female-Brain-The,,February 9th 2018,R,99,,Based on Fiction Book/Short Story,Comedy,Live Action,Contemporary Fiction,Black,United States
+0,67,The Female Brain,"$16,273",2,"$6,886",26,Female-Brain-The,,February 9th 2018,R,99,,Based on Fiction Book/Short Story,Comedy,Live Action,Contemporary Fiction,Black,United States
+0,67,The Female Brain,"$16,273",2,"$6,886",26,Female-Brain-The,,February 9th 2018,R,99,,Based on Fiction Book/Short Story,Comedy,Live Action,Contemporary Fiction,Black,United States
+0,67,The Female Brain,"$16,273",2,"$6,886",26,Female-Brain-The,,February 9th 2018,R,99,,Based on Fiction Book/Short Story,Comedy,Live Action,Contemporary Fiction,Black,United States
+0,74,Death House,"$10,295",1,"$10,295",1,Death-House,,March 2nd 2018,R,93,,Original Screenplay,Horror,Live Action,Contemporary Fiction,Entertainment,United States
+0,75,Please Stand By,"$9,868",5,"$4,090",7,Please-Stand-By,,January 26th 2018,PG-13,93,,Original Screenplay,Drama,Live Action,Contemporary Fiction,2929,United States
+0,75,Please Stand By,"$9,868",5,"$4,090",7,Please-Stand-By,,January 26th 2018,PG-13,93,,Original Screenplay,Drama,Live Action,Contemporary Fiction,2929,United States
+0,75,Please Stand By,"$9,868",5,"$4,090",7,Please-Stand-By,,January 26th 2018,PG-13,93,,Original Screenplay,Drama,Live Action,Contemporary Fiction,2929,United States
+0,85,The Cage Fighter,"$2,027",2,"$1,204",2,Cage-Fighter-The,,February 2nd 2018,R,88,,Based on Real Life Events,Reality,Live Action,Factual,Lineage,United States
+0,85,The Cage Fighter,"$2,027",2,"$1,204",2,Cage-Fighter-The,,February 2nd 2018,R,88,,Based on Real Life Events,Reality,Live Action,Factual,Lineage,United States
